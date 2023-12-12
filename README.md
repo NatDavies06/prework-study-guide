@@ -1,21 +1,44 @@
-# Prework Study Guide Webpage
+# 📖 Create a New GitHub Repository
 
-## Description
+Work with a partner to implement the following user story:
 
-This Prework Study Gudie was created for boot camp students who were going through the Prework. It contains notes of HTML, CSS, Git, and JavaScript.
+* As a developer, I want to create a new GitHub repository and add an HTML file to it.  
 
-N/A
+## Acceptance Criteria
 
-## Usage
+* It's done when I have created a new repository named `first-day-repo` using the GitHub user interface.
 
-To use this Prework Study Guide, you can reviw the notes in each seacction. For suggestions on what to study first, open the Chrome DevTools by pressing Comand+Option+I (macOS) or Control+Shift+I (Windows). A console panel should open either below or to the side webpage in the browser. There you will see a list of topics we learned from the prework along with a suggestion on which topic to study first.
+* It's done when I have cloned the `first-day-repo` to my local machine.
 
-## Credits
+* It's done when I have used command-line commands to navigate into the `first-day-repo` directory.
 
-N/A
+* It's done when I have used command-line commands to create an `index.html` file.
 
-## License
+* It's done when I add and commit my changes using Git commands.
 
-Please refer to the LICENSE in the reop.
+* It's done when I push the changes to the remote repository. 
 
-##
+## 📝 Notes
+
+Refer to the documentation: 
+
+[GitHub Docs on creating a repo](https://docs.github.com/en/github/getting-started-with-github/create-a-repo)
+
+[GitHub Docs on cloning a repository](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository)
+
+---
+
+## 💡 Hints
+
+What command can you use to list the contents of a directory? How can you use this command to check your work?
+
+## 🏆 Bonus
+
+If you have completed this activity, work through the following challenge with your partner to further your knowledge:
+
+* What are the `git fetch` and `git merge` commands? 
+
+Use [Google](https://www.google.com) or another search engine to research this.
+
+---
+© 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
